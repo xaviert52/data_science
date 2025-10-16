@@ -1,1 +1,1 @@
-# Proyects from Codecademy's Data Scientist: Data Engineer Career Path
+# Proyects from Codecademy's Data Science: Machine Learning Specialist Career Path

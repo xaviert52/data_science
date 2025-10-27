@@ -1,1 +1,1 @@
-# Proyects from Codecademy's Data Science: Machine Learning Specialist Career Path
+# Projects from Codecademy's Data Science: Machine Learning Specialist Career Path
